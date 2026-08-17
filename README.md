@@ -22,9 +22,8 @@ framework/framework.md
 
 See case-study/merchandising-report-case-study.md.
 
-Links
 
-Medium article: 
+Medium article: https://medium.com/@xolanintsibande08/every-dashboard-begins-on-the-sales-floor-8e4a3e7f8a10 
 
 Privacy
 
