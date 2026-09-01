@@ -275,11 +275,6 @@ FMCG Retail Professional transitioning into Data Analytics.
 
 Experience in retail execution, merchandising, on-shelf availability and SKU management, combined with developing skills in data analysis, SQL, Excel, Power BI, Python and data visualisation.
 
-Connect
-
-LinkedIn: Add your LinkedIn profile link here
-
-GitHub: Add your GitHub profile link here
 
 ---
 
