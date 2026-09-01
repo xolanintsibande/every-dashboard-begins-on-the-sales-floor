@@ -1,34 +1,26 @@
-# From the Sales Floor to Data-Driven Decisions
+# Every Dashboard Begins on the Sales Floor
 
-## How Five Years in FMCG Retail Taught Me the Way I Think About Business, Data and Decision-Making
+*How five years in FMCG retail taught me the way I think about business, data and decision-making.*
 
-> **I thought I had found a job. I had actually found a classroom.**
-
-**By Xolani Ntsibande**
+By Xolani Ntsibande
 
 ---
 
-## Overview
+I thought I had found a job.
 
-I did not plan to build a career in retail.
+I had actually found a classroom.
 
-After matric, I applied to several universities but was not accepted. I had ambition, but no clear path. My sister encouraged me to apply at Smollan.
-
-I completed the assessment, attended the interview and received a call a few days later offering me a role on the Unilever account.
+After matric, I applied to several universities but was not accepted. I had ambition, but no clear path. My sister encouraged me to apply at Smollan. I completed the assessment, attended the interview and received a call a few days later offering me a role on the Unilever account.
 
 That role changed how I think about work.
 
 Five years in FMCG retail taught me how customers behave, how products move, how execution affects performance and how the numbers in a dashboard connect to what happens inside a store.
 
-> **Retail taught me how businesses operate. More importantly, it taught me that every dashboard begins with someone doing the work.**
+> "I didn't plan to build a career in retail. Retail taught me how businesses operate. More importantly, it taught me that every dashboard begins with someone doing the work."
 
----
+## Retail Became My Classroom
 
-# Retail Became My Classroom
-
-Retail execution is where the data begins.
-
-Availability, shelf placement, promotional compliance and customer choice all shape the numbers that later appear in a dashboard.
+*Image: Retail taught me to look beyond the task: availability, execution, customer behaviour and the condition of the shelf all influence what eventually appears in a report.*
 
 At the start, I was not thinking about dashboards, business intelligence or data analytics.
 
@@ -36,48 +28,33 @@ I was thinking about shelves.
 
 I checked stock, rotated products, followed planograms, corrected pricing issues, supported promotions and helped customers.
 
-The work was operational.
+The work was operational. But every task produced information.
 
-But every task produced information.
-
-- A product was available or unavailable.
-- A promotion was executed correctly or missed.
-- A shelf met the required standard or did not.
-- A product had the expected number of facings or did not.
+A product was available or unavailable. A promotion was executed correctly or missed. A shelf met the required standard or did not. A product had the expected number of facings or did not.
 
 Over time, I started seeing these activities differently.
 
-They were not separate tasks.
-
-Together, they created the operational conditions behind retail performance.
+They were not separate tasks. Together, they created the operational conditions behind retail performance.
 
 The more time I spent on the sales floor, the more I saw the connection between daily FMCG execution and business performance.
 
----
-
-# People Before Products
+## People Before Products
 
 One of my strongest lessons from retail came from a merchandising negotiation involving Meal Solutions.
 
-I wanted better visibility and additional space for the product.
+*Image: From standard shelf placement to additional display space.*
 
-My first instinct was to focus on what I wanted:
-
-**More visibility. Better placement. More space.**
+I wanted better visibility and additional space for the product. My first instinct was to focus on what I wanted: more visibility and better placement.
 
 The conversation did not move forward as I expected.
 
-I realised that I was focused on my request instead of understanding the store's needs.
+I realised I was focused on my request instead of understanding the store's needs.
 
 So I changed my approach.
 
 I listened first.
 
-I tried to understand:
-
-- What the store was prioritising.
-- What space constraints it was managing.
-- What would make the placement commercially useful for both the store and the brand.
+I tried to understand what the store was prioritising, what space constraints they were managing and what would make the placement commercially useful for both the store and the brand.
 
 That changed the conversation.
 
@@ -85,11 +62,9 @@ Instead of simply asking the store to give me more space, I approached the discu
 
 The lesson stayed with me:
 
-> **Listening comes before persuasion.**
+Listening comes before persuasion.
 
-Retail taught me that commercial execution is not only about getting a product onto a shelf.
-
-It is about understanding the customer, the store and the business objective, then finding a solution within those realities.
+Retail taught me that commercial execution is not only about getting a product onto a shelf. It is about understanding the customer, the store and the business objective, then finding a solution within those realities.
 
 That lesson still influences how I work with data.
 
@@ -99,29 +74,23 @@ Business context helps me understand why the number matters.
 
 The right decision starts with understanding the people and processes behind the data.
 
----
-
-# When the Dashboard Made Me Curious
+## When the Dashboard Made Me Curious
 
 My thinking changed when Smollan introduced the Smart App.
 
-Our field reporting and merchandising processes used the app for activities such as:
-
-- Merchandising reports
-- Photographic evidence
-- Control forms
-- Performance tracking
+Our field reporting and merchandising processes used the app for activities such as merchandising reports, photographic evidence, control forms and performance tracking.
 
 Most people needed to learn how to use the system.
 
 I became interested in what was behind the information.
 
-I started asking:
+Where did the data come from?
 
-- Where did the data come from?
-- How was the percentage calculated?
-- What happened before the number appeared on the dashboard?
-- How did thousands of merchandising activities become information management could use?
+How was the percentage calculated?
+
+What happened before the number appeared on the dashboard?
+
+How did thousands of merchandising activities become information management could use?
 
 Those questions changed what I looked for in my daily work.
 
@@ -129,9 +98,7 @@ I stopped seeing a dashboard as the end of a reporting process.
 
 I started seeing it as the beginning of an investigation.
 
----
-
-# When the Report and the Shelf Told Different Stories
+## When the Report and the Shelf Told Different Stories
 
 One of the clearest examples came from a merchandising report showing a product as unavailable.
 
@@ -153,19 +120,17 @@ I corrected the placement, checked the surrounding shelf against the required pl
 
 The investigation mattered because the first explanation was not the correct one.
 
-The report showed the symptom.
-
-The physical shelf helped identify the cause.
+The report showed the symptom. The physical shelf helped identify the cause.
 
 That changed the question I ask when I see an exception.
 
 Instead of asking only:
 
-> **What happened?**
+"What happened?"
 
 I ask:
 
-> **Why did it happen?**
+"Why did it happen?"
 
 A dashboard can identify a problem.
 
@@ -177,129 +142,79 @@ The sales floor gives the context.
 
 I need both.
 
----
-
-# From Floor to Data to Decision
+## From Floor to Data to Decision
 
 This became the simplest way for me to understand the relationship between frontline execution and analytics.
 
-## FLOOR → DATA → DECISION → IMPROVE
+*Image: From DATA to IMPROVE — turning everyday retail execution into better business decisions.*
 
-### FLOOR
+**FLOOR**
+Execute consistently.
+This is where the work happens.
 
-**Execute consistently.**
+**DATA**
+Capture what happened.
+This is where the work becomes measurable.
 
-This is where the business activity happens.
+**DECISION**
+Combine evidence with business context.
+This is where the numbers become meaningful.
 
-Products are placed on shelves.
+**IMPROVE**
+Act, measure the result and learn from what happens next.
 
-Stock is replenished.
+FLOOR → DATA → DECISION → IMPROVE
 
-Promotions are implemented.
-
-Customers make purchasing decisions.
-
-Operational activity creates the conditions that later become data.
-
-### DATA
-
-**Capture what happened.**
-
-The activity is recorded through:
-
-- Reports
-- Applications
-- Forms
-- Photographs
-- Performance metrics
-- Dashboards
-
-The data provides evidence of what happened.
-
-### DECISION
-
-**Combine evidence with business context.**
-
-A number may identify an exception.
-
-The next step is to investigate:
-
-- What happened?
-- Why did it happen?
-- Where did it happen?
-- What evidence supports the explanation?
-- What action should follow?
-
-### IMPROVE
-
-**Act, measure the result and learn from what happens next.**
-
-The process does not end with the decision.
-
-Action creates another outcome.
-
-That outcome can be measured.
-
-The learning then informs the next decision.
-
-```text
-FLOOR
-   ↓
-DATA
-   ↓
-DECISION
-   ↓
-IMPROVE
-   ↺
 For me, this represents the connection between what happens in a store and what eventually appears in a dashboard.
-What the Numbers Reinforced
+
+## What the Numbers Reinforced
+
 My experience on the Unilever account gave me a practical view of how operational execution connects with measurable performance.
-Across the team, YTD sales increased from approximately R10.3 million in 2024 to R16.0 million in 2025, representing an increase of approximately 55%.
-Important context: The R16.0 million figure represents team sales performance, not my individual sales contribution.
-During this period:
-I worked across more than 285 SKUs.
-My latest measured performance was 98% on-shelf availability across my SKUs.
-My latest merchandising scorecard was 88%.
+
+Across the team, YTD sales increased from approximately R10.3 million in 2024 to R16.0 million in 2025, an increase of about 55%.
+
+The R16.0 million figure represents team sales performance, not my individual sales contribution.
+
+During this period, I worked across more than 285 SKUs. My latest measured performance was 98% on-shelf availability across my SKUs and an 88% merchandising scorecard.
+
 I do not view these numbers in isolation.
-They represent repeated activities across the sales floor:
-Replenishing shelves
-Rotating products
-Checking standards
-Executing promotions
-Correcting issues
-Reporting what happened
+
+They represent repeated activities across the sales floor: replenishing shelves, rotating products, checking standards, executing promotions, correcting issues and reporting what happened.
+
 The numbers show the outcome.
-Daily execution provides context for what sits behind the outcome.
-Performance was never only something reported at the end of the month.
-It was connected to what happened every day on the sales floor.
-Learning Beyond the Floor
+
+The daily execution provides context for what sits behind the outcome.
+
+Performance was never only something reported at the end of the month. It was connected to what happened every day on the sales floor.
+
+## Learning Beyond the Floor
+
 While working full-time in retail, I started studying data analytics.
-My evenings shifted from recovering after work to learning:
-Excel
-SQL
-Power BI
-Python
-Data visualisation
+
+My evenings shifted from recovering after work to learning Excel, SQL, Power BI, Python and data visualisation.
+
 These tools gave me new ways to investigate questions I had already encountered in retail.
-One project that helped me move from learning tools to applying analytical thinking was my Excelerate Admissions Analysis Project.
-I worked with 7,543 records covering 2023 to 2025.
-During the data preparation process, I identified 2,543 duplicate records and reduced the dataset to 5,000 records for analysis.
-Using data cleaning, Excel and Looker Studio, I examined:
-Admission outcomes
-Missing transcripts
-Geographic differences
-Follow-up activity
-The analysis showed:
-An overall admission rate of 65.1%.
-India recorded a 77.5% admission rate.
-West Africa recorded a 28.6% admission rate.
-The project reinforced something I had already started learning on the sales floor:
-Before acting on a number, understand how the number was produced.
+
+But one of the projects that helped me move from learning tools to applying analytical thinking was my Excelerate Admissions Analysis project.
+
+I worked with 7,543 records covering 2023 to 2025 and identified 2,543 duplicate records before reducing the dataset to 5,000 records for analysis.
+
+Using data cleaning, Excel and Looker Studio, I examined admission outcomes, missing transcripts, geographic differences and follow-up activity.
+
+The analysis showed an overall admission rate of 65.1%. India recorded a 77.5% admission rate compared with 28.6% in West Africa.
+
+The project reinforced something I had already started learning on the sales floor: before acting on a number, I need to understand how the number was produced.
+
 Cleaning the data changed the dataset.
+
 Segmenting the data changed the questions.
+
 Visualising the results made the patterns easier to communicate.
+
 The most important change was not learning another tool.
+
 It was learning to ask better questions.
+
 What happened?
 
 Why did it happen?
@@ -311,118 +226,59 @@ What evidence supports the explanation?
 What action should follow?
 
 What changed after the action?
-My retail experience gave those questions context.
-My analytics training gave me new ways to investigate them.
-Data + Retail Experience
-The more I learned about analytics, the more I realised that my retail experience was not separate from my analytical development.
-It was the context that helped me interpret what the data was showing.
-Data + Retail Experience = Business Understanding
-Five years on the retail floor taught me:
-How products move.
-How customers interact with stores.
-How execution affects availability.
-How operational decisions influence performance.
-Analytics is teaching me how to:
-Examine those patterns more systematically.
-Test assumptions.
-Investigate relationships.
-Communicate what the evidence means.
-The combination gives me two perspectives:
-Understanding the operation that produces the data.
-Analysing the information that describes it.
-I have started applying this approach beyond the retail floor through analytical projects involving:
-Data cleaning
-Data analysis
-Dashboards
-Predictive modelling
-The tools may change.
-The business questions remain.
-Skills Demonstrated
-This portfolio represents the intersection of retail operations and analytical thinking.
-Retail and Business
-FMCG Retail Operations
-Merchandising
-On-Shelf Availability
-SKU Management
-Planogram Compliance
-Promotional Execution
-Customer Engagement
-Commercial Awareness
-Analytics
-Data Cleaning
-Exploratory Data Analysis
-SQL
-Excel
-Power BI
-Looker Studio
-Python
-Data Visualisation
-Business Analysis
-Data Storytelling
-Key Analytical Principle
-The framework behind my approach is simple:
-BUSINESS ACTIVITY
-       ↓
-     DATA
-       ↓
-  INVESTIGATION
-       ↓
- BUSINESS CONTEXT
-       ↓
-    DECISION
-       ↓
-     ACTION
-       ↓
-   MEASUREMENT
-       ↓
-   IMPROVEMENT
-A dashboard can identify an exception.
-It cannot always explain the underlying cause.
-Understanding the operation behind the data helps determine the next question to investigate.
-Bringing Both Perspectives Together
-I thought I was entering a career in retail.
-I was learning how businesses operate.
-The customer taught me about people.
-The sales floor taught me about execution.
-Analytics taught me to ask better questions.
-Five years in FMCG retail gave me operational context.
-My analytical development is giving me new ways to investigate what that context means.
-I now want to bring both perspectives together:
-Understanding what is happening on the ground.
-Using data to understand why.
-Turning that understanding into better business decisions.
-I am currently building toward opportunities in:
-Retail Analytics
-Data Analytics
-Commercial Reporting
-Business Intelligence
-Sales Analytics
-Consumer Insights
-Business Analysis
-My focus is on roles within FMCG, retail and consumer-focused organisations in South Africa.
-Repository Structure
-from-sales-floor-to-data-decisions/
-│
-├── article/
-│   └── full-article.md
-│
-├── case-study/
-│   └── retail-analytics-case-study.md
-│
-├── framework/
-│   └── floor-data-decision-improve.md
-│
-├── images/
-│   ├── article-cover.png
-│   ├── framework-diagram.png
-│   └── retail-execution.png
-│
-└── README.md
-About Me
-Xolani Ntsibande
-FMCG Retail Professional transitioning into Data Analytics.
-I combine frontline retail experience with skills in data analysis, SQL, Excel, Power BI, Python and data visualisation.
-My goal is to use both operational knowledge and analytical thinking to understand business problems and support better decisions.
 
-Every Dashboard Begins Somewhere
+My retail experience gave those questions context.
+
+My analytics training gave me new ways to investigate them.
+
+## Data + Retail Experience
+
+The more I learned about analytics, the more I realised that my retail experience was not separate from my analytical development.
+
+It was the context that helped me interpret what the data was showing.
+
+**Data + Retail Experience = Business Understanding**
+
+Five years on the retail floor taught me how products move, how customers interact with stores, how execution affects availability and how operational decisions influence performance.
+
+Analytics is teaching me how to examine those patterns more systematically, test assumptions and communicate what the evidence means.
+
+The combination gives me two perspectives:
+
+Understanding the operation that produces the data.
+
+Analysing the information that describes it.
+
+I have started applying this approach beyond the retail floor through analytical projects involving data cleaning, analysis, dashboards and predictive modelling.
+
+The tools may change.
+
+The business questions remain.
+
+## Bringing Both Perspectives Together
+
+I thought I was entering a career in retail.
+
+I was learning how businesses operate.
+
+The customer taught me about people.
+
+The sales floor taught me about execution.
+
+Analytics taught me to ask better questions.
+
+Five years in FMCG retail gave me operational context. My analytical development is giving me new ways to investigate what that context means.
+
+I now want to bring both perspectives together:
+
+Understanding what is happening on the ground.
+
+Using data to understand why.
+
+Turning that understanding into better business decisions.
+
+That is the perspective I am taking into the next stage of my career.
+
+Every dashboard begins somewhere.
+
 For me, it began on the sales floor.
