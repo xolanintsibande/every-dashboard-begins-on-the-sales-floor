@@ -1,4 +1,4 @@
-# From the Sales Floor to Data-Driven Decisions
+# Every dashboard begins on the sales floor  
 
 How Five Years in FMCG Retail Shaped the Way I Think About Business, Data and Decision-Making
 
