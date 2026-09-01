@@ -32,7 +32,7 @@ Those activities eventually became numbers, reports and performance metrics.
 
 That experience shaped how I now approach data.
 
-«A dashboard can identify a problem. Understanding the operation behind the data helps explain why it happened.»
+## A dashboard can identify a problem. Understanding the operation behind the data helps explain why it happened.
 
 ---
 
@@ -100,7 +100,7 @@ DATA
 DECISION
    ↓
 IMPROVE
-   ↺
+   
    
 <img width="800" height="1000" alt="framework" src="https://github.com/user-attachments/assets/af6d63a2-2d65-413f-8ac4-46cada954ad8" />
 
@@ -127,7 +127,7 @@ The sales floor provided the context needed to investigate the cause.
 
 This experience reinforced an important principle:
 
-«Do not stop at what the data says. Investigate how the result was produced.»
+Do not stop at what the data says. Investigate how the result was produced.
 
 ---
 
@@ -200,7 +200,7 @@ During the analysis:
 
 The project reinforced a lesson I had already learned in retail:
 
-«Before acting on a number, understand how the number was produced.»
+Before acting on a number, understand how the number was produced.
 
 ---
 
