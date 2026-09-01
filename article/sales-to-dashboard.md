@@ -4,6 +4,9 @@
 
 By Xolani Ntsibande
 
+
+<img width="1672" height="941" alt="cover_image" src="https://github.com/user-attachments/assets/be203293-c496-47ec-bbdd-a951c44415e5" />
+
 ---
 
 I thought I had found a job.
@@ -20,7 +23,11 @@ Five years in FMCG retail taught me how customers behave, how products move, how
 
 ## Retail Became My Classroom
 
-*Image: Retail taught me to look beyond the task: availability, execution, customer behaviour and the condition of the shelf all influence what eventually appears in a report.*
+
+<img width="800" height="1422" alt="Sales Floor" src="https://github.com/user-attachments/assets/ed396143-f57e-4fe8-b2de-523bdb2e46b1" />
+
+
+*Retail taught me to look beyond the task: availability, execution, customer behaviour and the condition of the shelf all influence what eventually appears in a report.*
 
 At the start, I was not thinking about dashboards, business intelligence or data analytics.
 
@@ -42,7 +49,10 @@ The more time I spent on the sales floor, the more I saw the connection between 
 
 One of my strongest lessons from retail came from a merchandising negotiation involving Meal Solutions.
 
-*Image: From standard shelf placement to additional display space.*
+<img width="1280" height="853" alt="space_gained" src="https://github.com/user-attachments/assets/37807301-2ec7-40cd-b635-26ec8cac047a" />
+
+
+*From standard shelf placement to additional display space.*
 
 I wanted better visibility and additional space for the product. My first instinct was to focus on what I wanted: more visibility and better placement.
 
@@ -146,7 +156,10 @@ I need both.
 
 This became the simplest way for me to understand the relationship between frontline execution and analytics.
 
-*Image: From DATA to IMPROVE — turning everyday retail execution into better business decisions.*
+<img width="800" height="1000" alt="framework" src="https://github.com/user-attachments/assets/8a2adfbb-f97f-4f6c-970a-f0bd4515029d" />
+
+
+* From DATA to IMPROVE — turning everyday retail execution into better business decisions.*
 
 **FLOOR**
 Execute consistently.
