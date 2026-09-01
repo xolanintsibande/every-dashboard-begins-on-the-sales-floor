@@ -1,4 +1,4 @@
-# Every Dashboard Begins on the Sales Floor
+# Every dashboard begins on the sales floor
 
 *How five years in FMCG retail taught me the way I think about business, data and decision-making.*
 
