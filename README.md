@@ -1,6 +1,7 @@
 # Every Dashboard Begins on the Sales Floor
 
-![Every Dashboard Begins on the Sales Floor](./images/cover.png)
+<img width="1672" height="941" alt="cover_image" src="https://github.com/user-attachments/assets/6ece9ecb-cc78-4d0c-85e7-89938b054228" />
+
 
 ## From FMCG Retail Operations to Data Analytics and Better Business Decisions
 
