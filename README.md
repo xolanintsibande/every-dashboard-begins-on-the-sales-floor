@@ -1,4 +1,10 @@
+
 # Every dashboard begins on the sales floor  
+
+
+<img width="1672" height="940" alt="download" src="https://github.com/user-attachments/assets/b8144151-a95a-4f12-b8c1-12545bba14fd" />
+
+
 
 How Five Years in FMCG Retail Shaped the Way I Think About Business, Data and Decision-Making
 
@@ -95,6 +101,9 @@ DECISION
    ↓
 IMPROVE
    ↺
+   
+<img width="800" height="1000" alt="framework" src="https://github.com/user-attachments/assets/af6d63a2-2d65-413f-8ac4-46cada954ad8" />
+
 
 ---
 
